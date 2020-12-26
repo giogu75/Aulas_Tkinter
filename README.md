@@ -1,3 +1,4 @@
 # Aulas_Tkinter
-Resumos do estudo do Tkinter----
-parei em 2020_12_16_22.43.22.jpg
+#Resumos do estudo do Tkinter----
+#ver capturas de tela no meu googledrive
+#parei em 2020_12_17_22.16.07
